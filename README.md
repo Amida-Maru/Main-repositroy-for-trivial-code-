@@ -3,7 +3,6 @@ time1 = 5
 counter = 3
 flag = True
 
-#Made for fun because Cisco is too dry && Jakub
 
 print("""
 |^^^^^^^^^^^^^^^^^^^^^^^^^^^^|
